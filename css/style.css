@@ -2208,6 +2208,7 @@ blockquote p {
 	text-transform: capitalize;
 }
 .pr_num {
+	display:none !important;
     position: absolute;
     left: 50px;
     top: 40px;
